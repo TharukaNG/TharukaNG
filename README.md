@@ -23,6 +23,7 @@ Languages and Tools:
 <br>
 
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/SSIS.png" alt="SSIS" title="SSIS" width="85" height="35"> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/NiFi.png" alt="NiFi" title="NiFi" width="85" height="35"> &nbsp; &nbsp;
 
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/Python.png" alt="Python" title="Python" width="85" height="35"> &nbsp; &nbsp;
 <br>
