@@ -15,7 +15,7 @@ Languages and Tools:
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/PowerBI.png" alt="PowerBI" title="PowerBI" width="85" height="35"> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/Domo.png" alt="DOMO" title="DOMO" width="85" height="35"> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/Tableau.png" alt="Tableau" title="Tableau" width="85" height="35"> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/BigQuery.png" alt="BigQuery" title="BigQuery" width="85" height="35"> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/Looker-Studio.png" alt="Looker Studio" title="Looker Studio" width="85" height="35"> &nbsp; &nbsp;
 
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/T-SQL.png" alt="T SQL" title="T SQL" width="85" height="35"> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/MySQL.png" alt="MySQL" title="MySQL" width="85" height="35"> &nbsp; &nbsp;
