@@ -22,8 +22,13 @@ Languages and Tools:
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" width="85" height="35"> 
 <br>
 
+<img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/AzureDataFactory.jpg" alt="Azure Data Factory" title="AzureDataFactory" width="85" height="35"> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/SSIS.png" alt="SSIS" title="SSIS" width="85" height="35"> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/NiFi.png" alt="NiFi" title="NiFi" width="85" height="35"> &nbsp; &nbsp;
+<br>
+
+<img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/MsFabric.jpg" alt="Microsoft Fabric" title="MSFabric" width="85" height="35">
+<br>
 
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/Python.png" alt="Python" title="Python" width="85" height="35"> &nbsp; &nbsp;
 <br>
