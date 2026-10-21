@@ -28,7 +28,6 @@ Languages and Tools:
 <br>
 
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/MsFabric.jpg" alt="Microsoft Fabric" title="MSFabric" width="85" height="35">
-<br>
 
 <img src="https://raw.githubusercontent.com/tharukang/tharukang/master/assets/Python.png" alt="Python" title="Python" width="85" height="35"> &nbsp; &nbsp;
 <br>
